@@ -5,4 +5,5 @@
 * [Frontend](Frontend)
 * [IDE](IDE)
    * Linux 下 Sublime Text 中文输入
+* IDE
 
