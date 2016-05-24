@@ -6,4 +6,5 @@
 * Backend
 * [IDE](IDE)
    * React Base Fiddle (JSX)
+   * Linux 下 Sublime Text 中文输入
 
